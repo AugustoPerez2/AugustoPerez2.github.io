@@ -1,0 +1,16 @@
+[href="Categorias.html"] {
+   background-color:aqua;
+   font-size: larger;
+}
+ [href="Sucursales.html"]{
+    background-color:coral;
+    font-size:larger;
+ }
+[href="Contactenos.html"]{
+    background-color: aquamarine;
+    font-size: larger;
+}
+[href="Acercade.html"]{
+    background-color:rgb(255, 255, 30);
+    font-size: larger;
+}
